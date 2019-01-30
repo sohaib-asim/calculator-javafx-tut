@@ -1,0 +1,17 @@
+.button{
+    -fx-background-color: yellow;
+    
+}
+
+.label{
+    -fx-font: 25;
+    -fx-underline: true;
+    
+}
+
+#result{
+     
+}
+.root{
+    -fx-background-color: skyblue;
+}
